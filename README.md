@@ -2,6 +2,8 @@
 
 - Simple news project in Node and EJS template to study kubernetes config.
 - Using k3d to run on localhost
+- Postgres on port 5432
+- [localhost:30000](http://localhost:30000/) to access 
 
 # Important commands 
 > create cluster
