@@ -13,7 +13,7 @@
 # Important commands 
 > apply deployment.yaml
 
-$ ```cd src/k8s```
+$ ```cd k8s```
 
 $ ```kubectl apply -f deployment.yaml```
 
