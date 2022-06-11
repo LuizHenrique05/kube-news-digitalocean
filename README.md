@@ -1,7 +1,7 @@
 # kube-news
 
-Simple news project in Node and EJS template to study kubernetes config.
-Using k3d to run on localhost
+- Simple news project in Node and EJS template to study kubernetes config.
+- Using k3d to run on localhost
 
 # Important commands 
 > create cluster
